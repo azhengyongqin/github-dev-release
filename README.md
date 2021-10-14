@@ -140,3 +140,35 @@ Add any other context about the problem here.
 ![image-20211014195820682](README.assets/image-20211014195820682.png)
 
 ![image-20211014195906019](README.assets/image-20211014195906019.png)
+
+
+
+## 6. 打包发布版本
+
+### 6.1 先本地 **git** 中添加个 **tag**
+
+>  `git tag` 命令文档：[2.6 Git 基础 - 打标签](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
+>
+> 语义化版本规范说明：[https://semver.org/lang/zh-CN/](https://semver.org/lang/zh-CN/)
+
+```bash
+git tag -a v1.0.0 -m "这是我的测试发布版本"
+git push origin --tags
+```
+
+![image-20211014201033201](README.assets/image-20211014201033201.png)
+
+
+
+### 6.2 Create a new release
+
+![image-20211014201204380](README.assets/image-20211014201204380.png)
+
+![image-20211014201422801](README.assets/image-20211014201422801.png)
+
+![image-20211014202625562](README.assets/image-20211014202625562.png)
+
+打包完成：
+
+![image-20211014202813072](README.assets/image-20211014202813072.png)
+
