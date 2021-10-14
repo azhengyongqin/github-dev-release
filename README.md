@@ -94,5 +94,49 @@ Add any other context about the problem here.
 
 
 
-## 3. 添加 Issues 和 Project 内容，并进行关联
+## 3.创建一个 Bug report Issues 关联到Projects面板
 
+进入项目 **Issues**  --> **New issue** --> 选择之前创建的 **Bug report** 模板 **Get started**
+
+![image-20211014192248637](README.assets/image-20211014192248637.png)
+
+编辑 **Issues** 并且添加到 **Bug report Projects** 中，进行关联
+
+![image-20211014193659627](README.assets/image-20211014193659627.png)
+
+添加成功后可以点击如下的位置进入，**Projects** 面板
+
+![image-20211014194024659](README.assets/image-20211014194024659.png)
+
+![image-20211014194223781](README.assets/image-20211014194223781.png)
+
+
+
+## 4.3.创建一个 Bug report Project 关联到 Issues 
+
+在 **But report project** 中添加一个新的项
+
+![image-20211014194653595](README.assets/image-20211014194653595.png)
+
+![image-20211014194743019](README.assets/image-20211014194743019.png)
+
+![image-20211014194821802](README.assets/image-20211014194821802.png)
+
+关联成功后
+
+![image-20211014194906340](README.assets/image-20211014194906340.png)
+
+![image-20211014194956496](README.assets/image-20211014194956496.png)
+
+
+
+## 5. 关闭Issues
+
+当解决了**Bug Issues**后，可以手动关闭这个 **Issues**， 同时可以在描述中关联解决这个 **Issues** 的提交记录。
+![image-20211014195656104](README.assets/image-20211014195656104.png)
+
+关闭后关联的 **Project** 会对这个 **Issues** 进行自动分类归档
+
+![image-20211014195820682](README.assets/image-20211014195820682.png)
+
+![image-20211014195906019](README.assets/image-20211014195906019.png)
