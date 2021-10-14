@@ -1,5 +1,7 @@
 # Github 开发和打包流程
 
+[TOC]
+
 **Github** 已经完全给我们提供一个很方便的项目开发发布管理流程，这里用一个简单的Git项目来说明一下 **Github** 的一些常用的开发流程，主要包括 **Issues**、**commit**、 **Projects**、**Releases** 几个功能的配合使用。
 
 本文中的例子全部基于这个仓库：https://github.com/azhengyongqin/github-dev-release
